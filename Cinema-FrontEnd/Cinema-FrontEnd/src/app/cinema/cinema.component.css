@@ -1,0 +1,79 @@
+/* Style for the column */
+.col-md-8 {
+  margin-top: 20px; /* Add margin at the top */
+}
+
+/* Style for the panel */
+.panel {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+
+
+.panel-heading {
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+}
+
+.panel-body {
+  padding: 15px;
+}
+
+/* Style for the list */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+/* Style for the <ul> element */
+ul.nav.nav-pills {
+  list-style: none;
+  padding: 0;
+}
+
+/* Style for each <li> element */
+ul.nav.nav-pills li {
+  margin-bottom: 10px;
+}
+/* Custom CSS class for a column that spans half the container width on medium screens */
+
+
+
+
+/* Style for the <a> element within each <li> */
+ul.nav.nav-pills li a {
+  display: block;
+  padding: 10px 15px;
+
+  color: #000000;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+/* Hover effect for the <a> element */
+ul.nav.nav-pills li a:hover {
+  background-color: #567496;
+}
+/* Custom CSS class for smaller buttons */
+.small-button {
+  margin-top: 7px;
+  padding: 5px 10px; /* Adjust padding to control button size */
+  margin-right: 5px;
+  color: #fcf4f4;
+  background-color: #a4a4a4;
+  /* Add margin to create spacing between buttons */
+}
+/* CSS class for the active state */
+.active {
+  background-color: #007bff; /* Set the background color for the active element */
+  color: #fff; /* Set the text color for the active element */
+  /* Add any other styles for the active state as needed */
+}
+
+
